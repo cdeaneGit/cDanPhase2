@@ -34,4 +34,4 @@ File renaming strategy:
   
   d. Renaming the xml files will be required in any case due to the illegal character in each filename.
   
-  e. Therefore, I vote for renaming the xml files to match the tif files and revising the xml files to reflect the change.
+  e. Therefore, I plan to rename the xml files to match the tif files and revise the xml files to reflect the change.
